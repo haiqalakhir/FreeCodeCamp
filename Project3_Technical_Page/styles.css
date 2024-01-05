@@ -13,3 +13,21 @@ body {
   color: white;
   padding: 20px;
 }
+
+#navbar header {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.nav-link {
+  display: block;
+  color: white;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.main-section {
+  margin-left: 220px;
+  padding: 40px;
+  max-width: 750px;
+}
