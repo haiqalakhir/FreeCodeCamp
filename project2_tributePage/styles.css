@@ -22,3 +22,47 @@ body {
     color: #333;
 }
 
+#img-div {
+    text-align: center;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto; /* center the image */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#img-caption {
+    margin-top: 10px;
+    color: #777;
+}
+
+#tribute-info {
+    margin-top: 20px;
+    text-align: justify;
+}
+
+#tribute-link {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #007bff;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+#tribute-link:hover {
+    background-color: #0056b3;
+}
+
+#technique {
+    margin-bottom: 5px;
+    margin-left: -20px;
+    font-size: large;
+    font-weight: bold;
+}
